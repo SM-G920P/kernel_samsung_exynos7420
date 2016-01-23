@@ -1,0 +1,21 @@
+#Name
+Arter
+#Device
+-SM-G920P
+#Version
+-V11
+#Zip-Name
+arter-kernel
+#Version
+-V11-WSM
+#Toolchain
+aarch64-linux-android-4.9/bin/aarch64-linux-android-gcc
+#Su Version
+-su_266
+#Device
+-SM-G920P-Userbuild
+
+
+#UBERTC-aarch64-linux-android-6.0/bin/aarch64-linux-android-
+#
+#
