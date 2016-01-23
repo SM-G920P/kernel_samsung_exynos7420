@@ -9,7 +9,7 @@ arter-kernel
 #Version
 -V11-WSM
 #Toolchain
-aarch64-linux-android-4.9/bin/aarch64-linux-android-gcc
+aarch64-linux-android-4.9/bin/aarch64-linux-android-
 #Su Version
 -su_266
 #Device
